@@ -61,7 +61,7 @@ export function HeroContent() {
             <motion.div variants={itemVariants}>
               <span className="text-purple-400 font-mono">Hello, I&apos;m</span>
               <h1 className="text-5xl md:text-7xl font-bold text-white mt-2">
-                Augustine Chukwuemeka
+                Tolulope Fakunle
               </h1>
               <h2 className="text-2xl md:text-3xl text-purple-200 mt-2">
                 Software Engineer
@@ -75,7 +75,7 @@ export function HeroContent() {
               efficient and scalable
               <span className="text-purple">
                 {" "}
-                backend systems. Based in Lagos, Nigeria,{" "}
+                Mobile Apps. Based in Lagos, Nigeria,{" "}
               </span>
               I&apos;m open to relocation and eager to embrace new challenges.
               With a strong enthusiasm for learning new technologies, I
