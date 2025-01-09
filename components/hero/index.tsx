@@ -75,18 +75,16 @@ export function HeroContent() {
               efficient and scalable
               <span className="text-purple">
                 {" "}
-                Mobile Apps. Based in Lagos, Nigeria,{" "}
+                Mobile Applications. Based in Lagos, Nigeria,{" "}
               </span>
-              I&apos;m open to relocation and eager to embrace new challenges.
-              With a strong enthusiasm for learning new technologies, I
-              continually strive to improve and deliver impactful solutions.
+              I&apos;m passionate about embracing new challenges and continuously learning emerging technologies. I strive to enhance my skills and deliver innovative, impactful solutions."
             </motion.p>
             <motion.div
               variants={itemVariants}
               className="flex items-center gap-4"
             >
               <Link
-                href="https://drive.google.com/file/d/1kUMhn65dD3NWAzMnfJnxWX0KtykOTvAd/view?usp=sharing"
+                href="https://drive.google.com/file/d/1XJ3_StNomgG6SsajqYZyC5iQY-8iDT9i/view?usp=sharing"
                 target="_blank"
               >
                 <MagicButton
@@ -95,7 +93,7 @@ export function HeroContent() {
                   position="right"
                 />
               </Link>
-              <Link href="mailto:asogwaaugustineemeka@gmail.com">
+              <Link href="mailto:fakunletolulope05@gmail.com">
                 <MagicButton
                   title="Contact Me"
                   icon={<ExternalLink size={20} />}
