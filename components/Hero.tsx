@@ -1,4 +1,4 @@
-import { HeroContent } from "./hero";
+import { HeroContent } from "./hero/index";
 
 const Hero = () => {
 	return (
