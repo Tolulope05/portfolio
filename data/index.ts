@@ -197,22 +197,22 @@ export const socialMedia = [
 	{
 		id: 1,
 		img: "/socials/git.svg",
-		href: "https://github.com/010binary",
+		href: "https://github.com/tolulope05",
 	},
 	{
 		id: 2,
 		img: "/socials/twit.svg",
-		href: "https://x.com/August13200296",
+		href: "https://x.com/FakunleTolu",
 	},
 	{
 		id: 3,
 		img: "/socials/link.svg",
-		href: "https://www.linkedin.com/in/alpha-augustine/",
+		href: "https://www.linkedin.com/in/tolulope-fakunle/",
 	},
 	{
 		id: 4,
 		img: "/socials/what.svg",
-		href: "https://wa.link/8fojb2",
+		href: "https://wa.link/t2kgin",
 	},
 ];
 

@@ -35,3 +35,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# TO RUN
+# npm run dev
+# npm run build
+# npm run start
+

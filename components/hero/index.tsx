@@ -75,7 +75,7 @@ export function HeroContent() {
               efficient and scalable
               <span className="text-purple">
                 {" "}
-                Mobile Applications. Based in Lagos, Nigeria,{" "}
+                Mobile Applications. Based in Lagos, Nigeria.{" "}
               </span>
               I&apos;m passionate about embracing new challenges and continuously learning emerging technologies. I strive to enhance my skills and deliver innovative, impactful solutions."
             </motion.p>
